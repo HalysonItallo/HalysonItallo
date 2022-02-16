@@ -1,4 +1,4 @@
-## <img align="center" alt="Avatar" height="128px" width="128px" src="https://i.imgur.com/U0M5NNo.png"><div> **Olá, eu sou o Halyson Itallo, amante de todas as tecnologias ! 💻**  </div> 
+## <img align="center" alt="Avatar" height="128px" width="128px" src="https://i.imgur.com/U0M5NNo.png"><div> **Olá, eu sou o Halyson Itallo, amante de tecnologia ! 💻**  </div> 
 
 
 <div align="center">
